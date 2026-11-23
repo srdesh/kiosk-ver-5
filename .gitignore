@@ -1,0 +1,4 @@
+.DS_Store
+# Old Burger Meister assets, not used by the Wild Bowls kiosk
+_burger-meister-assets/
+.claude/settings.local.json
